@@ -2,16 +2,17 @@
 I plan on hosting a ML & AI 3 days bootcamp, 
 in those days you will learn everything you need to know about machine learning and Artificial intelligence 
 by the end of the bootcamp you will be able to build fully functional 
-Machine learning models and pipelines only with a payment plan of TZS35,000.
+Machine learning models and pipelines.
 
-Venue: To be announced
-Day and Date: July (Date to be announced)
+Venue: Google Meet
+Day and Date: July 26th - July 28th 2000hrs - 2200hrs
 
-### NOTE: ###
-As attendies who will be taking this class, 
-you are expected to know your way around Python syntax and fluent in ways of data analysis 
-(munipulation and data visualization) as this session will be focused on machine learning and AI only 
-and wont be covering data analysis basics.   
+### WHAT YOU NEED TO HAVE ###
+-   Your computer/laptop with python3 already installed
+
+NOTE: As attendies who will be taking this class, you are expected to know your way around Python 
+     syntax as this session will be focused on machine learning and AI only 
+     and wont be covering data analysis basics.   
 
 ### LIBRARIES TO BE STUDIES AND USED ###
 - Sklearn/Scikit-learn
@@ -19,10 +20,7 @@ and wont be covering data analysis basics.
     2. preprocessing
     3. Label Encoding
     4. Training and testing using various ML algorithms i.e Decision Tree Regresor, Random Forest Regressor
-    5. Checking for efficiency, model perfomance.
-
-- Pytorch
-- Tensorflow
+    5. Checking for efficiency, accuracy and model perfomance.
 
 ### COVERAGE: ###
 To be announced
